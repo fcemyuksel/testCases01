@@ -14,7 +14,7 @@ import org.openqa.selenium.interactions.Actions;
 import java.time.Duration;
 import java.util.List;
 
-public class DenemDers1 {
+public class DenemeDers1 {
 
     WebDriver driver;
 
